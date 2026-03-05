@@ -1,0 +1,52 @@
+ Том в устройстве C не имеет метки.
+ Серийный номер тома: 8CDD-8027
+
+ Содержимое папки C:\Windows
+
+17.08.2024  03:36                 0 setuperr.log
+03.03.2026  20:29                 1 vgkbootstatus.dat
+31.05.2023  00:44                53 WrpYGF74DrEm.ini
+18.06.2021  17:21               167 win.ini
+07.12.2019  12:12               219 system.ini
+03.03.2026  22:42               276 WindowsUpdate.log
+08.03.2023  22:41               402 Cm6xxx.ini.imi
+07.12.2019  12:09               670 WindowsShell.Manifest
+16.05.2025  11:47             1 620 DtcInstall.log
+24.03.2018  02:50             1 951 NvContainerRecovery.bat
+17.07.2018  06:50             4 145 Cm6xxx.ini.cfg
+26.04.2021  20:35             4 760 PidVid_List.dll
+27.02.2024  18:22             5 440 PidVid_List
+22.02.2024  09:53             7 801 Info.xml
+07.12.2019  00:29            11 264 write.exe
+07.12.2019  12:10            11 776 winhlp32.exe
+16.05.2022  17:23            13 576 acpimof.dll
+21.01.2025  18:13            17 954 DirectX.log
+07.12.2019  12:09            18 432 hh.exe
+21.01.2025  01:01            24 602 DPINST.LOG
+07.12.2019  12:10            30 831 Professional.xml
+26.04.2021  20:35            34 428 rtl8761b_mp_chip_bt40_fw_asic_rom_patch_new.dll
+27.02.2024  18:22            42 620 rtl8761b_mp_chip_bt40_fw_asic_rom_patch_new
+07.12.2019  12:08            43 131 mib.bin
+05.03.2026  17:11            67 584 bootstat.dat
+11.07.2018  17:57            67 646 PANTEON.ico
+16.05.2025  11:28            76 800 twain_32.dll
+17.07.2018  06:27            90 054 Install-02.bmp
+12.02.2025  19:36            93 696 bfsvc.exe
+17.07.2018  06:26           148 854 Install-01.bmp
+25.07.2025  16:35           164 352 splwow64.exe
+16.05.2025  11:29           200 704 notepad.exe
+04.06.2004  18:33           314 368 IsUninstR.Exe
+24.03.1997  17:42           314 368 IsUninst.exe
+07.12.2019  17:37           316 640 WMSysPr9.prx
+08.03.2023  22:41           356 715 Cm6xxx.ini.cfl
+16.05.2024  17:31           370 176 regedit.exe
+06.10.2006  08:45           524 768 difxapi.dll
+15.09.2017  19:55           552 204 Activator.exe
+20.02.2026  21:29           622 538 PFRO.log
+26.04.2021  20:44           726 976 RtkBtManServ.exe
+16.05.2025  11:28         1 065 984 HelpPane.exe
+17.10.2025  20:02         6 089 584 explorer.exe
+27.02.2026  22:24       134 222 904 392667600.dat
+08.08.2024  03:49       457 555 934 MEMORY.DMP
+              45 файлов    604 218 968 байт
+               0 папок  120 695 365 632 байт свободно
